@@ -10,7 +10,7 @@ const Blog = ({data,handleTime,handleMark}) => {
     return (
         <>
         <section>
-        <main className='mb-10 mr-10'>
+        <main className='mb-10 sm:mr-10'>
 
          
             <Image
