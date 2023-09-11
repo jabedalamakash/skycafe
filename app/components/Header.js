@@ -11,7 +11,7 @@ const Header = () => {
             height={20}
             width={20}
             alt="profile"
-            className='w-16 h-16 border-2  border-blue-600  rounded-full'/>
+            className='w-16 h-16 hover:border-2  hover:border-blue-600  rounded-full'/>
 
             </nav>
             
